@@ -23,3 +23,8 @@ chmod +x passgen.py
 cp ~/path/to/password.py ~/.local/bin/passgen
 */
     
+#Verify
+sha256sum passgen.py: 9e2aaa90acc551c650161db43964f441b094bf436f325424530ba6b85278126c
+
+All commits to this Github Account has been signed with a Private_Key or AppSigner. Hashed 256 bit values and Signiture Verification should Always be
+present, if not report it.
